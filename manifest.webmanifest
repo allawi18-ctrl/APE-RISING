@@ -1,0 +1,9 @@
+{
+  "name": "APE RISING | ثورة القردة",
+  "short_name": "APE RISING",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#080c09",
+  "theme_color": "#101813"
+}
